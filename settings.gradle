@@ -1,1 +1,1 @@
-include ':app', ':mybase-android'
+include ':app', ':mybase-android', ':mybase-android-databinding'
